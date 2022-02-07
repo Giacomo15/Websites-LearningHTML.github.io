@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Used by Key Board-->
+    <meta charset="utf-8">
+
+    <title> Learning HTML</title>
+
+    <!-- Used by Google Search -->
+    <meta >
+    <meta >
+    <meta >
+    <meta >
+  </head>
+  <body>
+    Hello World
+  </body>
+</html>
