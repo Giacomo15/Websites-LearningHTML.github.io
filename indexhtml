@@ -12,10 +12,19 @@
     <meta name="keywords" content="boilerplate, starter code, HTML, Learning">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style> div (border: thin dotted red;) </style>
+    <style> div {border: thin dotted red;} </style>
 
   </head>
   <body>
-    <div> Hello World<>
+    <div> Hello World</div>
+    <header></header>
+    <nav></nav>
+    <aside></aside>
+    <section><article></article></section>
   </body>
+  <footer>
+    <blockquote cite="https://www.brainyquote.com/quotes/andrew_brown_104628?src=t_internet"><!-- Date Accessed 20220208--></blockquote>
+    The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.
+    - Andrew Brown
+  </footer>
 </html>
